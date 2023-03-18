@@ -166,6 +166,7 @@ color: #618bdf;
     border: 2px solid rgba(255, 255, 255, .5);
     border-top-right-radius: 40px;
     
+    
 
     
    
@@ -212,6 +213,7 @@ color: #618bdf;
     backdrop-filter: blur(10px);
     border: 2px solid rgba(255, 255, 255, .5);
     border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
     background-color: var(--bc);
     color: var(--tw)
 }
@@ -233,6 +235,7 @@ color: #618bdf;
     border-radius: 10px;
     background-color: var(--bc);
     border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
     color: var(--tw)
 }
 .cccontainer.active{
@@ -253,6 +256,7 @@ color: #618bdf;
     border-radius: 10px;
     background-color: var(--bc);
     border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
     color: var(--tw);
 
 }
