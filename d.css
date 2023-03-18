@@ -315,6 +315,9 @@ color: #618bdf;
     z-index: 1;
     
 }
+.lo{
+    color: var(--tw)
+}
 
 @media (max-width: 767px){
     .navigation a{
