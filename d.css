@@ -215,7 +215,7 @@ color: #618bdf;
     border-top-right-radius: 40px;
     border-bottom-left-radius: 40px;
     background-color: var(--bc);
-    color: var(--tw)
+    color: var(--tw);
     overflow: hidden;
 }
 .ddcontainer.active{
@@ -237,7 +237,7 @@ color: #618bdf;
     background-color: var(--bc);
     border-top-right-radius: 40px;
     border-bottom-left-radius: 40px;
-    color: var(--tw)
+    color: var(--tw);
     overflow: hidden;
 }
 .cccontainer.active{
